@@ -1,7 +1,7 @@
 ### Hi there, I'm naff 👋
 [![](https://visitcount.itsvg.in/api?id=NFTSZ&icon=2&color=1)](https://visitcount.itsvg.in)
 
-![](https://github.com/NFTSZ/Your_GIF_Name.gif)
+![](https://github.com/NFTSZ/ezgif.com-video-to-gif.gif)
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sznaft) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tatastudyyg) 
