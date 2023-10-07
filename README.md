@@ -46,4 +46,4 @@ __*"Every line of code is like a clue in a treasure hunt game, taking us closer 
 
 ---
 
-![Github profile views](https://komarev.com/ghpvc/?username=your-github-NFTSZ)
+![Github profile views](https://komarev.com/ghpvc/?username=NFTSZ)
