@@ -37,9 +37,8 @@
              align="right">
     </a>
 </div>
-
-Here, I'm just another technology enthusiast. I work on some projects in Python and currently, I'm dedicated to learning Java. I always seek to expand my programming knowledge even further. I started in the field because I often felt the need to obtain tools that I couldn't find on the internet, so I decided to create them myself. <br>
-My focus as a programmer is problem-solving and task automation. I enjoy new challenges and learning new technologies.
+Here, I'm just another technology enthusiast. I work on some projects in Python and am currently dedicated to learning more about other tools, always seeking to further expand my programming knowledge. I started in the area because I often felt the need to obtain tools that I couldn't find on the internet, so I decided to create them myself. <br>
+My focus as a programmer is problem solving and task automation. I like new challenges and learning new technologies.
 
 ---
 <div align="center">
