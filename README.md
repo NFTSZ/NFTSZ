@@ -1,7 +1,7 @@
 <h1 align="center"> Naftaly Souza </h1>
     
 <div align="center">
-<b>Backend developer | Data enthusiast | Task automation | Games </b>
+<b>Backend developer | Data enthusiast | Task automation </b>
 <br>
 <br>
 
