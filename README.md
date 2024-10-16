@@ -12,16 +12,18 @@
 </blockquote>
 </div>
 
-<!-- <div align="center">
+<div align="center">
     <a target="_blank">
     <a href="https://twitter.com/tatastudyyg" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
-        <img src="https://img.shields.io/static/v1?message=sznaft&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+    </a>
+        <a href ="https://discord.com/invite/GR6s4258">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
     </a> 
     <a href ="mailto:naftsz.dev@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-</div>-->
+</div>
 
 ---
 <div align="right" style="margin:auto">
