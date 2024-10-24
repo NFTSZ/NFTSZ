@@ -20,7 +20,7 @@
         <a href ="https://discord.com/invite/GR6s4258">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
     </a> 
-    <a href ="mailto:naftsz.dev@gmail.com">
+    <a href ="mailto:naft.dev@proton.me">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
 </div>
