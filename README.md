@@ -14,14 +14,15 @@
 
 <div align="center">
     <a target="_blank">
-    <a href="https://twitter.com/tatastudyyg" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
-    </a>
-        <a href ="https://discord.com/invite/GR6s4258">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a> 
-    <a href ="mailto:naft.dev@proton.me">
-        <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
+        <a href="https://www.linkedin.com/in/nftsz/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        </a>
+        <a href="https://twitter.com/tatastudyyg" target="_blank">
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
+        </a>
+        <a href ="mailto:naft.dev@proton.me">
+            <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
+        </a>
     </a>
 </div>
 
@@ -45,17 +46,29 @@ My focus as a programmer is problem solving and task automation. I like new chal
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<!--<h4>Learning/improving technologies:</h4>
+![Github profile views](https://komarev.com/ghpvc/?username=NFTSZ)
 
+</div>
+
+<!--
+
+<h4>Learning/improving technologies:</h4>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h4>Interested in learning:</h4>
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+<h4>Other</h4>
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+<a href ="https://discord.com/invite/GR6s4258">
+    <img src="https://img.shields.io/static/v1?message=sznaft&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" target="_blank">
+</a> 
+
 -->
 
 
-![Github profile views](https://komarev.com/ghpvc/?username=NFTSZ)
